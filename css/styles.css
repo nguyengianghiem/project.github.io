@@ -1,0 +1,698 @@
+@font-face {
+    font-family: abc;
+    src: url(../webfonts/Marcellus-Regular.ttf);
+}
+@font-face {
+    font-family: cab;
+    src: url(../webfonts/Antonio-VariableFont_wght.ttf);
+}
+.nav-link {
+    color: #e2e2e2;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+.navbar-expand-lg .navbar-nav  .htg{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+.header1 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.logo1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+}
+.container-fluid
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.g1 {
+    background: #111111;
+    display: block;
+    height: 1px;
+    transition: all .2s ease-out;
+    width: 18px;
+    margin-top: 3px;
+}
+.g2{
+    background: #111111;
+    display: block;
+    height: 2px;
+    transition: all .2s ease-out;
+    width: 13px;
+    margin-top: 3px;
+}
+.g3{
+    background: #111111;
+    display: block;
+    height: 2px;
+    transition: all .2s ease-out;
+    width: 18px;
+    margin-top: 3px;
+}
+
+.h12{
+    margin: 0 auto;
+}
+.ho {
+    color: #111111;
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.thanhngang{
+    border-bottom: solid 5px #000;
+}
+.thanhngang1{
+    margin-top: 2px;
+    border-top: solid 2px #000;
+}
+.hot1{
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.hot1{
+    background: #fdcd01;
+    color: #000;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    position: relative;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.hot2{
+    display: block;
+    background: #c41515;
+    color: #fff;
+    font-weight: bold;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 145px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.left-content{
+    width: 25%;
+    box-sizing: border-box;
+    padding-right: 20px;
+}
+.center-content{
+    width: 50%;
+    box-sizing: border-box;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-left: #f1f1f1  solid 2px;
+    border-right: #f1f1f1 solid 2px;
+}
+.right-content{
+    width: 25%;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.abcc{
+    margin-bottom: 10px;
+}
+.mobi{
+    width: 304px;
+    margin-bottom: 10px;
+}
+.mobi1{
+    width: 648px;
+    height: auto;
+    display: inline-block;
+    margin-bottom: 20px;
+    
+}
+.chudo{
+    text-decoration: none;
+    color: #EC1E24;
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: abc;
+}
+.chuden{
+    font-size: 1.3em;
+   font-family: abc;
+}
+.noidung{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 70px;
+    border-bottom: #000 solid 2px;
+}
+.tacgia{
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 25px;
+    border-bottom: #f1f1f1 solid 2px;
+}
+.dam{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mobi2{
+    width: 304px;
+    margin-top: 25px;
+    
+}
+
+.chudogiua{
+    text-decoration: none;
+    color: #EC1E24;
+    font-size: 1.8em;
+    font-weight: bold;
+    font-family: abc;
+
+}
+.chudengiua{
+    font-size: 1.8em;
+    font-family: abc;
+    
+}
+.nd{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+.tacgia2{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.tacgia3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.header1{
+    padding-bottom: 3px;
+    border-bottom: #000 solid 3px;
+
+}
+.hd1{
+    text-decoration: none;
+    font-size: 1.4em;
+    color: #000;
+    font-weight: bold;
+    font-family: cab;
+}
+.anhtrai{
+    border-top: #000 solid 3px;
+    margin-top: 2px;
+    padding-top: 20px;
+}
+.smoking{
+    margin-right: 10px;
+    float: left;
+    border-radius: 50%;
+    width: 90px;
+}
+.chudentrai{
+    font-size: 1.15em;
+    font-family: abc;
+}
+.anhtrai12{
+    padding-top: 20px;
+}
+.tacgia123{
+    font-family: 'Times New Roman', Times, serif;
+}
+.noidung1{
+    margin-top: 3px;
+    border-top: #000 solid 1px;
+}
+.tieude1{
+    font-size: 2.1em;
+    color: #000;
+    font-family: cab;
+    font-weight: bold;
+    padding-top: 10px;
+    font-weight: 100;
+}
+.chon1{
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 1.2em;
+    padding-bottom: 0px;
+    display: inline-block;
+}
+.chon11 i{
+    border-bottom: 2px solid #EC1E24;
+}
+.menund1{
+    padding-top: 0px;
+    margin-bottom: 20px;
+}
+.chon2{
+    display: inline-block;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 0.8em;
+    font-weight: 300;
+    border-top: #aaa7a7 solid 1px;
+    border-left: #aaa7a7 solid 1px;
+    border-bottom:#aaa7a7 solid 1px ;
+    color: #aaa7a7;
+}
+.chon3{
+    display: inline-block;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 0.8em;
+    font-weight: 300;
+    border-top: #aaa7a7 solid 1px;
+    border-right: #aaa7a7 solid 1px;
+    border-bottom:#aaa7a7 solid 1px ;
+    color: #aaa7a7;
+}
+.america1{
+    margin-bottom: 20px;
+    width: 306px;
+    height: auto;
+}
+.chuden01{
+    font-size: 1.28em;
+    font-family: abc;
+}
+.chia4cot{
+    padding-bottom: 70px;
+    border-bottom: #000 solid 2px;
+}
+.noidung2{
+    margin-top: 3px;
+    border-top: #000 solid 2px;
+}
+.chia2cotlan1{
+    box-sizing: border-box;
+}
+.couples{
+    width: 627px;
+    height: auto;
+}
+.chia2cotlan12{
+    float: right;
+    box-sizing: border-box;
+}
+.line1{
+    padding-right: 20px;
+    border-right: #f1f1f1 solid 1px;
+    
+}
+.line2{
+    padding-left: 20px;
+}
+.hiv1{
+    border-right: #f1f1f1 solid 2px;
+    padding-right: 20px;
+}
+.hiv2{
+   
+    padding-left: 20px;
+}
+.chia2cot{
+    margin-bottom: 80px;
+}
+.ndofbang{
+    position: relative;
+    padding: 150px;
+    border: #000 solid 3px;
+    border-radius: 5px;
+    margin-bottom: 200px;
+}
+.ndofbang1{
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: #000 solid 2px;
+    top:2px;
+    right: -7px;
+    left: 2px;
+    bottom: -7px;
+}
+.left-content-text{
+    margin-right: 20px;
+}
+.numndbentrong{
+    font-family: abc;
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: none;
+    color:#000;
+    font-style: italic;
+    display: inline-block;
+  
+}
+.textndbentrong{
+    font-family: abc;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-decoration: none;
+    color:#000;
+    display: inline-block;
+}
+.ndbentrong{
+    display: flex;
+    padding-right: 20px;
+    margin-right: 0px;
+    margin-left: 10px;
+    border-right: #f1f1f1 solid 2px;
+    margin-bottom: 20px;
+}
+.boxx1{
+    display: flex;
+}
+.box1{
+    float: left;
+}
+.box2{
+    margin-left: 20px;
+    float: right;
+    right: -30px;
+    
+}
+.ndbentrong2{
+    display: flex;
+    padding-right: 20px;
+    margin-right: 0px;
+    margin-left: 10px;
+    border-right: #f1f1f1 solid 2px;
+    margin-top: 20px;
+}
+.linestyle{
+    padding-right: 0px;
+    
+}
+.linestyle2{
+    padding-right: 0px;
+    padding-left: 10px;
+}
+.linengang{
+    margin-left: 10px;
+    margin-right: 20px;
+    border-bottom: #f1f1f1 solid 2px;
+}
+.ndbentronglevel1{
+    display: flex;
+    padding-right: 20px;
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.ndbentrong2level1{
+    display: flex;
+    padding-right: 20px;
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.cotcuoi{
+    padding-right: 20px;
+    padding-left: 12px;
+}
+.ndcuoi1{
+    border-bottom: #000 solid 2px;
+    padding-bottom: 5px;
+}
+.ndcuoi1-2{
+    margin-top: 2px;
+    padding-top: 20px;
+    border-top: #000 solid 1px;
+}
+.anhcuoi1-2{
+    width: 285px;
+}
+.ndcuoi1-3{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: #f1f1f1 solid 2px;
+}
+.tieudecuoi-1{
+    text-decoration: none;
+    color: #000;
+    font-family: abc;
+    font-size: 1.3em;
+    font-weight: bold;
+    display: inline-block;
+}
+.ngaythangcuoi{
+    font-family: 'Times New Roman', Times, serif;
+    color:#a0a0a0;
+}
+.ndcuoi1-3-2{
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.tuychoncuoi{
+    margin-top: 10px;
+}
+.cotcuoi-1{
+    padding-right: 20px;
+    padding-left: 20px;
+    border-left: #f1f1f1 solid 2px;
+}
+.cotcuoi-1-3{
+    padding-left: 20px;
+    padding-right: 12px;
+    border-left:#f1f1f1 solid 2px;
+}
+.anhcuoi1-2-2{
+    width: 285px;
+
+}
+.lessoncuoi{
+    padding-bottom: 50px;
+}
+.tableblack1{
+    background: #000;
+    border-left: #CF102D solid 22px;
+    padding-bottom: 30px;
+}
+.tbblleft{
+    padding-top: 40px;
+    padding-left: 55px;
+  
+}
+.videos{
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #fff;
+    font-weight: bold;
+    font-family: cab;
+    display: inline-block;
+}
+.tieudevideos{
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 2.40em;
+    color: #fff;
+    font-weight: bold;
+    font-family: abc;
+    display: inline-block;
+    line-height: 1em;
+}
+.noidungoftieude{
+    margin-top: 20px;
+    font-size:1.1em;
+    color: #f7f7f7;
+    font-weight: 600;
+    font-family: abc;
+    letter-spacing: 0.3px;
+    margin-bottom: 30px;
+}
+.tbblright{
+    padding-left: 0px;
+    position: relative;
+}
+.played{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    color: #FF0000;
+    display: inline-block;
+    background: #fff;
+    border-radius: 55%;
+    font-size: 4.5em;
+}
+.tableblack2{
+    background: #000;
+    margin-top: 1px;
+    padding-bottom: 25px;
+}
+.clipxe1{
+    padding-right: 0px;
+    display: flex;
+    
+}
+.anhxehoi1{
+    margin-top: 25px;
+    float: left;
+    position: relative;
+}
+.anhxe1-1{
+    display: inline-block;
+    
+    width: 250px;
+}
+.anhxe1-1-1{
+    height: auto;
+    display: inline-block;
+}
+.tieudexe1{
+    display: inline-block;
+    font-size: 1.2em;
+    letter-spacing: 1.5px;
+}
+.tieudexe{
+    float: right;
+    margin-top: 24px;
+    margin-left: 25px;
+    border-right: #f7f7f7 solid 1px ;
+}
+.noidungcuatieudexe1{
+    text-decoration: none;
+    color: #f7f7f7;
+    font-size: 1.30em;
+    font-family: abc;
+    display: inline-block;
+    margin-top: 5px;
+}
+.played1{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    color: #FF0000;
+    display: inline-block;
+    background: #fff;
+    border-radius: 55%;
+    font-size: 2.5em;
+}
+.clipxe2{
+    padding-left: 20px;
+    display: flex;
+}
+.tableblack{
+    margin-bottom: 160px;
+}
+.footter{
+    background: #000;
+    padding-bottom: 20px
+}
+.ft1{
+    margin-top: 60px;
+}
+.img-ft1{
+    width: 230px;
+}
+.text-ft1{
+    font-family: abc;
+    font-weight: bold;
+    color: #cccccc;
+    margin-top: 15px;
+    
+}
+.text1-ft1{
+    font-family: abc;
+    font-weight: bold;
+    color: #cccccc;
+    margin-top: 12px;
+    display: inline-block;
+    text-decoration: none;
+}
+.envelopes{
+    margin-right: 10px;
+}
+.title-text1-ft2{
+    font-size: 1.25em;
+    color: #cccccc;
+    font-family: cab;
+}
+.ft2{
+    margin-top: 55px;
+    padding-right: 0px;
+}
+.ft3{
+    margin-top: 55px;
+    padding-right: 0px;
+}
+.chiaanhvatext{
+    margin-top: 15px;
+    display: flex;
+    margin-bottom: 25px;
+}
+.img-ft2{
+    float: left;
+}
+.textofimgft2{
+    color: #cccccc;
+    text-decoration: none;
+    font-family: abc;
+    display: inline-block;
+    padding-right: 34px;
+    
+}
+.textofimgft2nd{
+    float: right;
+    margin-left: 10px;
+}
+.doronganh{
+    width: 150px;
+    height: auto;
+}
+.doronganh-ft2{
+    width: 162px;
+    height: auto;
+}
+.ft4{
+    margin-top: 55px;
+}
+.daungoac{
+    float: left;
+}
+.text-daungoac{
+    color: #cccccc;
+    text-decoration: none;
+    font-family: abc;
+    margin-left: 10px;
+}
+.daungoacright{
+    color: #828282;
+    font-size: 0.75em;
+}
+.num-daungoac{
+    color: #828282;
+    font-family: abc;
+}
+.chiaanhvatext1{
+    margin-top: 15px;
+    display: flex;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #828282;
+}
+.chiaanhvatext1-cuoi{
+    margin-top: 15px;
+    display: flex;
+    padding-bottom: 10px;
+}
+.ghichucuoicung{
+    margin-top: 60px;
+    color: #828282;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
